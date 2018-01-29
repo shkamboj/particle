@@ -1,6 +1,6 @@
-The MIT License (MIT)
+The IIIT License (IIIT Una)
 
-Copyright (c) 2016 Nathan Randecker
+Copyright (c) 2018 Shubham Kamboj
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
